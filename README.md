@@ -38,8 +38,17 @@
 - [回流(reflow)与重绘(repaint)](http://easywork.xin/2018/03/07/optimization-2/)
 - [优化总体路线](http://easywork.xin/2018/03/07/optimization-1/)
 
-## Vue
+## 框架
+### Vue
 - [vue双向绑定解析](http://easywork.xin/2018/07/04/vue-10/)
 - [从零开始搭Vue-cli](http://easywork.xin/2018/06/30/vue-9/)
 - [vue中的组件通信](http://easywork.xin/2018/05/20/vue-8/)
 - [vue组件的生命周期](http://easywork.xin/2018/03/24/vue-6/)
+### Angular
+- [Angular2双向绑定及变化检测](http://easywork.xin/2018/02/24/ng2-6/)
+- [Angular2 父子组件通信方式](http://easywork.xin/2018/01/28/ng2-3/)
+
+## 实践
+- [基于Vue移动端自适应方案与视网膜1px问题](http://easywork.xin/2018/06/11/practice-3/)
+- [实习总结](http://easywork.xin/2018/06/10/practice-2/)
+
