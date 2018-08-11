@@ -27,7 +27,7 @@
 
 ## 计算机网络
 - [http协商缓存与强缓存](http://easywork.xin/2018/07/08/network-9/)
-- [websocket使用与应用场景](http://easywork.xin/2018/05/30/network-8/)]
+- [websocket使用与应用场景](http://easywork.xin/2018/05/30/network-8/)
 - [HTTP发展历程](http://easywork.xin/2018/05/03/network-7/)
 - [HTTP琐碎知识点](http://easywork.xin/2018/03/17/network-6/)
 - [TCP三次握手、四次挥手](http://easywork.xin/2018/02/28/network-2/)
