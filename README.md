@@ -1,4 +1,12 @@
-# 博客地址：http://easywork.xin/ ，欢迎star~
+博客地址：http://easywork.xin/ ，主要为毕业前做的知识总结，已不再更新。
+
+新文章放于本项目issue。
+
+
+
+---
+
+
 
 ## web开发基础
 - [浏览器多进程？js单线程？](http://easywork.xin/2018/03/26/base-5/)
