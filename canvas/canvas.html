@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta content="text/html; charset=utf-8" http-equiv="Content-Type">
+  <meta content="width=device-width,initial-scale=1,user-scalable=no" name="viewport">
+  <title>canvas</title>
+</head>
+<body>
+    <img id="img" src="./canvas.jpg" style="width: 500px" alt="canvas"/>
+    <canvas id="canvas"></canvas>
+</body>
+<script>
+    const img = document.getElementById('img')
+    const canvas = document.getElementById("canvas")
+    const context = canvas.getContext("2d");
+    // drawImage(img,x,y)
+    img.onload = function(){
+      const width = img.clientWidth
+      const height = img.clientHeight
+      context.drawImage(img,10,10);
+    }
+     // drawImage(img,x,y,width,height)
+    // img.onload = function(){
+    //   const width = img.clientWidth
+    //   const height = img.clientHeight
+    //   canvas.width = 100
+    //   canvas.height = 100*height/width
+    //   context.drawImage(img,0,0,100,canvas.height);
+    // }
+</script>
+</html>
