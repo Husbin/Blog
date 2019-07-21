@@ -6,31 +6,32 @@
   <title>canvas</title>
 </head>
 <body>
-    <img id="img" src="./canvas.jpg" style="width: 960px" alt="canvas"/>
+    <img id="img" alt="canvas"/>
     <canvas id="canvas"></canvas>
 </body>
 <script>
     const img = document.getElementById('img')
+    img.src = "./canvas.jpg"
     const canvas = document.getElementById("canvas")
     const context = canvas.getContext("2d");
     // drawImage(img,x,y)
     // img.onload = function(){
-    //   const width = img.clientWidth;
-    //   const height = img.clientHeight;
+    //   const width = img.width;
+    //   const height = img.height;
     //   context.drawImage(img,10,10);
     // }
      // drawImage(img,x,y,width,height)
     // img.onload = function(){
-    //   const width = img.clientWidth;
-    //   const height = img.clientHeight;
+    //   const width = img.width;
+    //   const height = img.height;
     //   canvas.width = 100;
     //   canvas.height = 100*height/width;
     //   context.drawImage(img,0,0,100,canvas.height);
     // }
      // drawImage(img,sx,sy,sWidth,sHeight,dx,dy,dWidth,dHeight)
     img.onload = function(){
-      const width = img.clientWidth;
-      const height = img.clientHeight;
+      const width = img.width;
+      const height = img.height;
       console.warn(width,height)
       canvas.width = 200;
       canvas.height = 200;
