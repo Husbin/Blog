@@ -1,4 +1,4 @@
-博客地址：http://easywork.xin/ ，主要为毕业前做的知识总结，已不再更新。
+博客地址：https://husbin.github.io/ ，主要为毕业前做的知识总结，已不再更新。
 
 新文章放于本项目issue。
 
