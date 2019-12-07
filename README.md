@@ -2,6 +2,12 @@
 
 新文章放于本项目issue。
 
+## React
+- [拥抱React Hook](https://github.com/Husbin/Blog/issues/5)
+
+## Webpack
+- [Webpcak打包优化](https://github.com/Husbin/Blog/issues/6)
+
 ## Git
 - [gitflow工作流](https://github.com/Husbin/Blog/issues/1)
 - [做需求中遇到紧急bug如何处理](https://github.com/Husbin/Blog/issues/2)
